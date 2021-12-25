@@ -5,6 +5,8 @@ const token = require("../Token.json")
 const fs = require("fs")
 const prefix = "M-"
 
+// THIS IS A TEMPLATE
+
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`)
