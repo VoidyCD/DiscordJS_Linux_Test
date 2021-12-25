@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.4.0"
+  },
+  "name": "discordjstest",
+  "version": "0.0.1",
+  "description": "Testing Discord JS",
+  "main": "./src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoidyCD/DiscordJS_Linux_Test.git"
+  },
+  "author": "Voidy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoidyCD/DiscordJS_Linux_Test/issues"
+  },
+  "homepage": "https://github.com/VoidyCD/DiscordJS_Linux_Test#readme"
+}
